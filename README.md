@@ -10,9 +10,3 @@
 
 ```
 
-## A completely new and unique operating system.
-
-I had to give a lot of time to create such a flexible, convenient and powerful operating system.
-
-To verify for yourself what I have said, you just need to have `qemu` on your computer. Just run the program with one simple console line:
-`cargo run`
